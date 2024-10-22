@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+       android:shape="oval">
+    <solid android:color="#B1A1A1" />  <!-- Gris clair comme fond (#D3D3D3) -->
+    <size
+            android:width="96dp"
+            android:height="96dp" />  <!-- Taille du bouton circulaire -->
+</shape>
