@@ -1,2 +1,2 @@
-Systeme de plan de table dynamique pour android
+Systeme de plan de tables dynamique pour android
 Java - Firebase
